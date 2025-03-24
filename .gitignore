@@ -380,3 +380,6 @@ deps/3rd
 ############# test #############
 test/tmp
 test/var
+
+############ myself ###########
+.devcontainer
